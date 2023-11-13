@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chewear
+- 👋 Hi, I’m @chewear/ Bob Myron
 - 👀 I’m interested in solving programming problems and creating a nice looking UI designs
 - 🌱 I’m currently learning different web development languages
 - 📫 How to reach me, email me at myron.reyes37@gmail.com
